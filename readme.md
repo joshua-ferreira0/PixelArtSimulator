@@ -7,6 +7,7 @@ This project explores computer graphics, algorithms, and interactive web develop
 ## Demo
 
 A short demonstration of the application:
+
 https://github.com/user-attachments/assets/1856509f-139c-42fe-8d71-657f2f6ee35c
 
 ## Features
